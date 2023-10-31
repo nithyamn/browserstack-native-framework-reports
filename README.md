@@ -22,4 +22,4 @@ Alternatively, you can also hardcode username and access_key objects in the `and
 ### Run tests
 * Run `npm install`
 * For Android Run - `node androidReports.js`
-* For iOS Run - `node iOSReports.js`# browserstack-native-framework-reports
+* For iOS Run - `node iOSReports.js`
