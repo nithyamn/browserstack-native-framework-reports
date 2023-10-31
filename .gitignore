@@ -2,3 +2,4 @@ node_modules/
 package-lock.json
 android-build-data.json
 ios-build-data.json
+.DS_Store
